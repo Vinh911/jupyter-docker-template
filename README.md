@@ -32,3 +32,5 @@ Open your web browser and navigate to http://localhost:8888 to access the Jupyte
 You can use this template as a starting point for your own Jupyter Notebooks. Simply add your own notebooks to the notebooks/ folder and any required data files to the data/ folder.
 
 When you're ready to run your notebook, use docker-compose up to start the container and access the notebook at http://localhost:8888.
+
+Enjoy your Notebook!
