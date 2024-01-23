@@ -1,0 +1,7 @@
+.vscode
+notebooks/*
+!notebooks/.gitkeep
+data/*
+!data/.gitkeep
+environment.yaml
+.DS_Store

@@ -1,0 +1,7 @@
+name: myenv
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pydantic=1.9
+  - jupyterlab
