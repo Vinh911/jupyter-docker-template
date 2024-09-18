@@ -1,4 +1,3 @@
-version: '3.5'
 services:
   jupyter:
     build:
@@ -11,10 +10,3 @@ services:
       - ./data:/project/data
     environment:
       - JUPYTER_TOKEN=yourToken
-    networks:
-      san-ba_mynetwork:
-        ipv4_address: 172.23.0.8
-
-networks:
-  san-ba_mynetwork:
-    external: true
